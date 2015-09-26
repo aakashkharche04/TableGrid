@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\TableGrid\TableGrid\bin\TableGrid.dll.config
+c:\users\lenovo\documents\visual studio 2013\Projects\TableGrid\TableGrid\bin\TableGrid.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\TableGrid\TableGrid\bin\TableGrid.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\TableGrid\TableGrid\obj\Debug\TableGrid.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\TableGrid\TableGrid\obj\Debug\TableGrid.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\TableGrid\TableGrid\obj\Debug\TableGrid.pdb

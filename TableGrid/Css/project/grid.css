@@ -1,0 +1,40 @@
+﻿.bodyCls
+{
+    width:768px;
+    height:500px;
+}
+
+.gridCls
+{
+    background-color:whitesmoke;
+}
+.gridRow{
+    background-color:gray !important;
+}
+
+.rowDiv, .gridRow{
+    height: 50px;
+}
+
+input{
+    width:70%;
+    border-radius:5px;
+}
+
+.gridControl{
+    background-color:whitesmoke;
+}
+input[type*="text"]
+{
+    width:60%;
+}
+input[type*="text"] :read-only
+{
+    width:60%;
+    background-color:GrayText !important;
+}
+
+.gridHeader
+{
+    border:1px solid black;
+}
